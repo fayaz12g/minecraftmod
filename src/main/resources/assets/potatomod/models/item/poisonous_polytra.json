@@ -1,14 +1,14 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/poisonous_polytra"
+        "layer0": "potatomod:item/poisonous_polytra"
     },
     "overrides": [
         {
             "predicate": {
                 "broken": 1
             },
-            "model": "item/broken_elytra"
+            "model": "minecraft:item/broken_elytra"
         }
     ]
 }

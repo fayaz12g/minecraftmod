@@ -26,8 +26,6 @@ public class PotatoItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LASHING_POTATO = ITEMS.register("lashing_potato",
             () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> LASHING_POTATO_EXTENDED = ITEMS.register("lashing_potato_extended",
-            () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> POISONOUS_POLYTRA = ITEMS.register("poisonous_polytra",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> POISONOUS_POTATO = ITEMS.register("poisonous_potato",
