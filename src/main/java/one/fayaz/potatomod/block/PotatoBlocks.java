@@ -47,108 +47,53 @@ public class PotatoBlocks {
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> PEELGRASS_BLOCK = registerBlock("peelgrass_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> PEELGRASS_BLOCK_SNOW = registerBlock("peelgrass_block_snow",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POISONOUS_MASHED_POTATO = registerBlock("poisonous_mashed_potato",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POISONOUS_POTATO_BLOCK = registerBlock("poisonous_potato_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POISONOUS_POTATO_ORE = registerBlock("poisonous_potato_ore",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POISONOUS_POTATO_ZOMBIE_HEAD_BLOCK_SIDE = registerBlock("poisonous_potato_zombie_head_block_side",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POISONOUS_POTATO_ZOMBIE_HEAD_BLOCK_TOP = registerBlock("poisonous_potato_zombie_head_block_top",
+    public static final RegistryObject<Block> POISONOUS_POTATO_ZOMBIE_HEAD_BLOCK = registerBlock("poisonous_potato_zombie_head_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POISONOUS_POTATO_ZOMBIE_HEAD_HAT = registerBlock("poisonous_potato_zombie_head_hat",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POISON_FARMLAND = registerBlock("poison_farmland",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POISON_FARMLAND_MOIST = registerBlock("poison_farmland_moist",
+    public static final RegistryObject<Block> POISON_PATH = registerBlock("poison_path",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POISON_PATH_SIDE = registerBlock("poison_path_side",
+    public static final RegistryObject<Block> POTATOES = registerBlock("potatoes",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POISON_PATH_TOP = registerBlock("poison_path_top",
+    public static final RegistryObject<Block> POTATO_BATTERY = registerBlock("potato_battery",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATOES_STAGE0 = registerBlock("potatoes_stage0",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATOES_STAGE1 = registerBlock("potatoes_stage1",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATOES_STAGE2 = registerBlock("potatoes_stage2",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATOES_STAGE3 = registerBlock("potatoes_stage3",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BATTERY_INVERTED_TOP = registerBlock("potato_battery_inverted_top",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BATTERY_SIDE = registerBlock("potato_battery_side",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BATTERY_TOP = registerBlock("potato_battery_top",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_DOWN_BASE = registerBlock("potato_bud_down_base",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_DOWN_FRUSTUM = registerBlock("potato_bud_down_frustum",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_DOWN_MIDDLE = registerBlock("potato_bud_down_middle",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_DOWN_TIP = registerBlock("potato_bud_down_tip",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_DOWN_TIP_MERGE = registerBlock("potato_bud_down_tip_merge",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_UP_BASE = registerBlock("potato_bud_up_base",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_UP_FRUSTUM = registerBlock("potato_bud_up_frustum",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_UP_MIDDLE = registerBlock("potato_bud_up_middle",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_UP_TIP = registerBlock("potato_bud_up_tip",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_BUD_UP_TIP_MERGE = registerBlock("potato_bud_up_tip_merge",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_CUTTER_BOTTOM = registerBlock("potato_cutter_bottom",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_CUTTER_SAW = registerBlock("potato_cutter_saw",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_CUTTER_SIDE = registerBlock("potato_cutter_side",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_CUTTER_TOP = registerBlock("potato_cutter_top",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_DOOR_BOTTOM = registerBlock("potato_door_bottom",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> POTATO_DOOR_TOP = registerBlock("potato_door_top",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_FLOWER = registerBlock("potato_flower",
+//    public static final RegistryObject<Block> POTATO_BUD = registerBlock("potato_bud",
 //            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_FRUIT_BOTTOM = registerBlock("potato_fruit_bottom",
+    public static final RegistryObject<Block> POISONOUS_POTATO_CUTTER = registerBlock("poisonous_potato_cutter",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+//    public static final RegistryObject<Block> POTATO_DOOR = registerBlock("potato_door",
 //            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_FRUIT_SIDE = registerBlock("potato_fruit_side",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_FRUIT_TOP = registerBlock("potato_fruit_top",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_LEAVES = registerBlock("potato_leaves",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_FLOWER = registerBlock("potato_flower",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_FRUIT = registerBlock("potato_fruit",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_LEAVES = registerBlock("potato_leaves",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_LEAVES)));
+    // The Potato Pedicule causes the mod not to load...
 //    public static final RegistryObject<Block> POTATO_PEDICULE = registerBlock("potato_pedicule",
 //            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_PEELS_BLOCK = registerBlock("potato_peels_block",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_PLANKS = registerBlock("potato_planks",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_PORTAL = registerBlock("potato_portal",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_REFINERY_FRONT = registerBlock("potato_refinery_front",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_REFINERY_FRONT_ON = registerBlock("potato_refinery_front_on",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_REFINERY_SIDE = registerBlock("potato_refinery_side",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_REFINERY_TOP = registerBlock("potato_refinery_top",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_SPROUTS = registerBlock("potato_sprouts",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_STEM = registerBlock("potato_stem",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_STEM_TOP = registerBlock("potato_stem_top",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-//    public static final RegistryObject<Block> POTATO_TRAPDOOR = registerBlock("potato_trapdoor",
-//            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_PEELS_BLOCK = registerBlock("potato_peels_block",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_PLANKS = registerBlock("potato_planks",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_PORTAL = registerBlock("potato_portal",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_REFINERY = registerBlock("potato_refinery",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_SPROUTS = registerBlock("potato_sprouts",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_STEM = registerBlock("potato_stem",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final RegistryObject<Block> POTATO_TRAPDOOR = registerBlock("potato_trapdoor",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POTONE = registerBlock("potone",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> POTONE_COPPER_ORE = registerBlock("potone_copper_ore",
@@ -178,8 +123,6 @@ public class PotatoBlocks {
     public static final RegistryObject<Block> TRIPLE_COMPRESSED_POISONOUS_POTATO_BLOCK = registerBlock("triple_compressed_poisonous_potato_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> VICIOUS_POTATO = registerBlock("vicious_potato",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
-    public static final RegistryObject<Block> VICIOUS_POTATO_ENABLED = registerBlock("vicious_potato_enabled",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final RegistryObject<Block> WEAK_ROOTS = registerBlock("weak_roots",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));

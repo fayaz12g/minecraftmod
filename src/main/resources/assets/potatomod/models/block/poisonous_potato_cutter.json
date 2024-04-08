@@ -1,11 +1,11 @@
 {
     "parent": "block/block",
     "textures": {
-        "particle": "block/potato_cutter_bottom",
-        "bottom": "block/potato_cutter_bottom",
-        "top": "block/potato_cutter_top",
-        "side": "block/potato_cutter_side",
-        "saw": "block/potato_cutter_saw"
+        "particle": "potatomod:block/potato_cutter_bottom",
+        "bottom": "potatomod:block/potato_cutter_bottom",
+        "top": "potatomod:block/potato_cutter_top",
+        "side": "potatomod:block/potato_cutter_side",
+        "saw": "potatomod:block/potato_cutter_saw"
     },
     "elements": [
         {

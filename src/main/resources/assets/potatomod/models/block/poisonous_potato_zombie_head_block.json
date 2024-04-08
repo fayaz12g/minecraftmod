@@ -20,7 +20,7 @@
         }
     },
     "textures": {
-        "end": "block/poisonous_potato_zombie_head_block_top",
-        "side": "block/poisonous_potato_zombie_head_block_side"
+        "end": "potatomod:block/poisonous_potato_zombie_head_block_top",
+        "side": "potatomod:block/poisonous_potato_zombie_head_block_side"
     }
 }
