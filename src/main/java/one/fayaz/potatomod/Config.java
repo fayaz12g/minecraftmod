@@ -1,4 +1,4 @@
-package one.fayaz.potato;
+package one.fayaz.potatomod;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
