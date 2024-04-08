@@ -1,15 +1,15 @@
 {
     "parent": "block/block",
     "textures": {
-        "0": "block/tater",
-        "1": "block/big_brain_front_back",
-        "2": "block/big_brain_left_right",
-        "3": "block/big_brain_top_bottom",
-        "particle": "block/tater"
+        "0": "potatomod:block/tater",
+        "1": "potatomod:block/big_brain_front_back",
+        "2": "potatomod:block/big_brain_left_right",
+        "3": "potatomod:block/big_brain_top_bottom",
+        "particle": "potatomod:block/tater"
     },
     "elements": [
         {
-            "name": "tater",
+            "name": "potatomod:tater",
             "from": [
                 6,
                 0,

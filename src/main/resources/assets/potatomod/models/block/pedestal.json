@@ -5,8 +5,8 @@
         32
     ],
     "textures": {
-        "0": "block/pedestal",
-        "particle": "block/amber_block"
+        "0": "potatomod:block/pedestal",
+        "particle": "potatomod:block/amber_block"
     },
     "elements": [
         {

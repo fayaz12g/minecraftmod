@@ -5,8 +5,8 @@
         32
     ],
     "textures": {
-        "table": "block/frying_table",
-        "particle": "block/frying_table"
+        "table": "potatomod:block/frying_table",
+        "particle": "potatomod:block/frying_table"
     },
     "elements": [
         {
