@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": {
+            "item": "potatomod:baked_potato_bricks"
+        }
+    },
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:potato_refinery"
+    }
+}

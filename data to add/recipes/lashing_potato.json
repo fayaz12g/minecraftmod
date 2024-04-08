@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+        {
+            "item": "potatomod:poisonous_potato_block"
+        },
+        {
+            "item": "potatomod:toxic_beam"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:lashing_potato"
+    }
+}

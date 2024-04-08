@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "#": {
+            "item": "potatomod:poisonous_potato"
+        },
+        "X": {
+            "item": "potatomod:ghast_tear"
+        }
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 8,
+        "id": "potatomod:floatato"
+    }
+}

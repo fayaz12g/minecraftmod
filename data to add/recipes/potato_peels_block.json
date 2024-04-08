@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "P": {
+            "item": "potatomod:potato_peels"
+        }
+    },
+    "pattern": [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:potato_peels_block"
+    }
+}

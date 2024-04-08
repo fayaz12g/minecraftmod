@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "potatomod:taterstone"
+    },
+    "result": {
+        "count": 1,
+        "id": "potatomod:taterstone_wall"
+    }
+}

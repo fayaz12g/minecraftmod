@@ -1,0 +1,28 @@
+{
+    "parent": "potatomod:potato/root",
+    "criteria": {
+        "eat_armor": {
+            "trigger": "potatomod:eat_armor"
+        }
+    },
+    "display": {
+        "background": "potatomod:textures/gui/advancements/backgrounds/potato.png",
+        "description": {
+            "translate": "advancements.potato.eat_armor.description"
+        },
+        "hidden": true,
+        "icon": {
+            "count": 1,
+            "id": "potatomod:poisonous_potato_chestplate"
+        },
+        "title": {
+            "translate": "advancements.potato.eat_armor.title"
+        }
+    },
+    "requirements": [
+        [
+            "eat_armor"
+        ]
+    ],
+    "sends_telemetry_event": true
+}

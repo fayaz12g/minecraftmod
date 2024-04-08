@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "wooden_sign",
+    "key": {
+        "#": {
+            "item": "potatomod:potato_planks"
+        },
+        "X": {
+            "item": "potatomod:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "###",
+        " X "
+    ],
+    "result": {
+        "count": 3,
+        "id": "potatomod:potato_sign"
+    }
+}
