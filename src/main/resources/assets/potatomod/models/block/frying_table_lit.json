@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block/frying_table",
+    "parent": "potatomod:block/frying_table",
     "textures": {
         "frying_table": "potatomod:block/frying_table"
     }
