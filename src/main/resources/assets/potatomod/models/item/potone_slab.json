@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/potone_slab"
+    "parent": "potatomod:block/potone_slab"
 }

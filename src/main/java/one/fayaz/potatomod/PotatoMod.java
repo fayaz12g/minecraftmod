@@ -15,6 +15,7 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import one.fayaz.potatomod.block.PotatoBlocks;
 import one.fayaz.potatomod.item.PotatoItems;
 import one.fayaz.potatomod.item.PotatoModeTab;
 import org.slf4j.Logger;
@@ -34,6 +35,7 @@ public class PotatoMod
         PotatoModeTab.register(modEventBus);
 
         PotatoItems.register(modEventBus);
+        PotatoBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/potone_lapis_ore"
+    "parent": "potatomod:block/potone_lapis_ore"
 }
