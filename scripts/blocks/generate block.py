@@ -20,4 +20,4 @@ with open(os.path.join(folder_selected, 'output.txt'), 'w') as f:
         upper_name = name.upper()
         lower_name = name.lower()
         f.write(f'public static final RegistryObject<Block> {upper_name} = registerBlock("{lower_name}",\n'
-                 '            () -> new Block(BlockBehavior.Properties()));\n')
+                 '            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));\n')
