@@ -1,4 +1,5 @@
 {
+  "item.potatomod.amber_gem": "Amber Gem",
   "advancements.potato.all_potatoed.description": "Visit all the Potato Biomes",
   "advancements.potato.all_potatoed.title": "Around the Potato in 80 Days",
   "advancements.potato.bring_home_the_corruption.description": "See the corruption and be like: Hey, I want that in my garden!",
@@ -171,11 +172,11 @@
   "item.potatomod.corrupted_potato_peels": "Corrupted Potato Peels",
   "block.potatomod.corrupted_peelgrass_block": "Corrupted Peelgrass Block",
   "block.potatomod.corrupted_potato_peels_block": "Block of Corrupted Potato Peels",
-"block.potatomod.expired_baked_potato_brick_slab": "Expired Baked Potato Brick Slab",
+  "block.potatomod.expired_baked_potato_brick_slab": "Expired Baked Potato Brick Slab",
   "block.potatomod.expired_baked_potato_brick_stairs": "Expired Baked Potato Brick Stairs",
   "block.potatomod.expired_baked_potato_brick_wall": "Expired Baked Potato Brick Wall",
   "block.potatomod.expired_baked_potato_bricks": "Expired Baked Potato Bricks",
-"block.potatomod.baked_potato_brick_slab": "Baked Potato Brick Slab",
+  "block.potatomod.baked_potato_brick_slab": "Baked Potato Brick Slab",
   "block.potatomod.baked_potato_brick_stairs": "Baked Potato Brick Stairs",
   "block.potatomod.baked_potato_brick_wall": "Baked Potato Brick Wall",
   "block.potatomod.baked_potato_bricks": "Baked Potato Bricks",
@@ -184,7 +185,6 @@
   "block.potatomod.floatater": "Floatater",
   "block.potatomod.floatato": "Floatato",
   "block.potatomod.gravtater": "Gravtater",
-  "item.potatomod.amber_gem": "Amber Gem",
   "block.potatomod.amber_block": "Block of Amber",
   "block.potatomod.triple_compressed_poisonous_potato_block": "Triple Compressed Poisonous Potato Block",
   "block.potatomod.quadruple_compressed_poisonous_potato_block": "Quadruple Compressed Poisonous Potato Block",
@@ -422,5 +422,5 @@
   "potato.quest.wrote_thoughts.jump.17": "And from analysis of the Minecraft code...",
   "potato.quest.wrote_thoughts.jump.18": "We believe you should try cutting out the eyes.",
   "potato.quest.wrote_thoughts.jump.19": "Or more accurately: Craft out the Potato Eyes.",
-  "potato.quest.wrote_thoughts.jump.20": "Go on %1$s.\nCraft Potato Eyes from a Poisonous Potato.",
+  "potato.quest.wrote_thoughts.jump.20": "Go on %1$s.\nCraft Potato Eyes from a Poisonous Potato."
   }
