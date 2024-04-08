@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "potatomod:block/poison_path"
+            },
+            {
+                "model": "potatomod:block/poison_path",
+                "y": 90
+            },
+            {
+                "model": "potatomod:block/poison_path",
+                "y": 180
+            },
+            {
+                "model": "potatomod:block/poison_path",
+                "y": 270
+            }
+        ]
+    }
+}

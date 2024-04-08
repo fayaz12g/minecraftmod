@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "potatomod:block/terredepomme"
+            },
+            {
+                "model": "potatomod:block/terredepomme",
+                "y": 90
+            },
+            {
+                "model": "potatomod:block/terredepomme",
+                "y": 180
+            },
+            {
+                "model": "potatomod:block/terredepomme",
+                "y": 270
+            }
+        ]
+    }
+}

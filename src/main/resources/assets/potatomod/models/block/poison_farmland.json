@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_farmland",
+    "textures": {
+        "dirt": "potatomod:block/terredepomme",
+        "top": "potatomod:block/poison_farmland"
+    }
+}

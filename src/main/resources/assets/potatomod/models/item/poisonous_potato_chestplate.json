@@ -1,0 +1,74 @@
+{
+    "parent": "minecraft:item/generated",
+    "overrides": [
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_quartz_trim",
+            "predicate": {
+                "trim_type": 0.01
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_iron_trim",
+            "predicate": {
+                "trim_type": 0.02
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_netherite_trim",
+            "predicate": {
+                "trim_type": 0.03
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_redstone_trim",
+            "predicate": {
+                "trim_type": 0.04
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_copper_trim",
+            "predicate": {
+                "trim_type": 0.05
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_gold_trim",
+            "predicate": {
+                "trim_type": 0.06
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_emerald_trim",
+            "predicate": {
+                "trim_type": 0.07
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_diamond_trim",
+            "predicate": {
+                "trim_type": 0.08
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_lapis_trim",
+            "predicate": {
+                "trim_type": 0.09
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_amethyst_trim",
+            "predicate": {
+                "trim_type": 0.1
+            }
+        },
+        {
+            "model": "potatomod:item/poisonous_potato_chestplate_amber_trim",
+            "predicate": {
+                "trim_type": 1.0
+            }
+        }
+    ],
+    "textures": {
+        "layer0": "potatomod:item/poisonous_potato_chestplate"
+    }
+}

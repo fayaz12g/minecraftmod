@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "front": "potatomod:block/potato_refinery_front_on",
+        "side": "potatomod:block/potato_refinery_side",
+        "top": "potatomod:block/potato_refinery_top"
+    }
+}

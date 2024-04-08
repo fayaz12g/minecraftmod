@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "potatomod:block/potone"
+            },
+            {
+                "model": "potatomod:block/potone_mirrored"
+            },
+            {
+                "model": "potatomod:block/potone",
+                "y": 180
+            },
+            {
+                "model": "potatomod:block/potone_mirrored",
+                "y": 180
+            }
+        ]
+    }
+}

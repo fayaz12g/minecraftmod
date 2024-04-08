@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "potatomod:block/potato_stem_top",
+        "side": "potatomod:block/potato_stem"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_roots",
+    "textures": {
+        "texture": "potatomod:block/weak_roots"
+    }
+}

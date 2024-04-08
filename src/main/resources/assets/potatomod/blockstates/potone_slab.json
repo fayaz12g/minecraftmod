@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "potatomod:block/potone_slab"
+        },
+        "type=double": {
+            "model": "potatomod:block/potone"
+        },
+        "type=top": {
+            "model": "potatomod:block/potone_slab_top"
+        }
+    }
+}

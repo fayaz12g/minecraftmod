@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "potatomod:block/potone_copper_ore"
+        }
+    }
+}

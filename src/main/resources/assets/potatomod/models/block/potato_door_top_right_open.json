@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_top_right_open",
+    "textures": {
+        "bottom": "potatomod:block/potato_door_bottom",
+        "top": "potatomod:block/potato_door_top"
+    }
+}

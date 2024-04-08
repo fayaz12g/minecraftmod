@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "potatomod:item/poisonous_pota_toes",
+        "layer1": "potatomod:trims/items/boots_trim_gold"
+    }
+}

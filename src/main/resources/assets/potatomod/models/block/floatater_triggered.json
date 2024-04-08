@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube_directional",
+    "textures": {
+        "down": "potatomod:block/floatater_side",
+        "east": "potatomod:block/floatater_side",
+        "north": "potatomod:block/floatater_front",
+        "particle": "potatomod:block/floatater_front",
+        "south": "potatomod:block/floatater_back_triggered",
+        "up": "potatomod:block/floatater_side",
+        "west": "potatomod:block/floatater_side"
+    }
+}

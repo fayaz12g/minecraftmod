@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button",
+    "textures": {
+        "texture": "potatomod:block/potato_planks"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "potatomod:block/big_brain",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "potatomod:block/big_brain"
+        },
+        "facing=south": {
+            "model": "potatomod:block/big_brain",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "potatomod:block/big_brain",
+            "y": 270
+        }
+    }
+}

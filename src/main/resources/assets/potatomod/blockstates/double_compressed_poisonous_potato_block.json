@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "potatomod:block/double_compressed_poisonous_potato_block"
+        }
+    }
+}

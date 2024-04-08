@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "inverted=false": {
+            "model": "potatomod:block/potato_battery"
+        },
+        "inverted=true": {
+            "model": "potatomod:block/potato_battery_inverted"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "potatomod:block/corrupted_potato_peels_block"
+        }
+    }
+}

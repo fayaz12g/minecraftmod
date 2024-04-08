@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_roots_side",
+    "textures": {
+        "texture": "potatomod:block/strong_roots"
+    }
+}

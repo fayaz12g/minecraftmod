@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "potatomod:item/poisonous_potato_chestplate",
+        "layer1": "potatomod:trims/items/chestplate_trim_redstone"
+    }
+}

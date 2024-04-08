@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "snowy=false": [
+            {
+                "model": "potatomod:block/peelgrass_block"
+            },
+            {
+                "model": "potatomod:block/peelgrass_block",
+                "y": 90
+            },
+            {
+                "model": "potatomod:block/peelgrass_block",
+                "y": 180
+            },
+            {
+                "model": "potatomod:block/peelgrass_block",
+                "y": 270
+            }
+        ],
+        "snowy=true": {
+            "model": "potatomod:block/peelgrass_block_snow"
+        }
+    }
+}

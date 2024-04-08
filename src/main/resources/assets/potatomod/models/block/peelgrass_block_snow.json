@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "bottom": "potatomod:block/terredepomme",
+        "particle": "potatomod:block/terredepomme",
+        "side": "potatomod:block/peelgrass_block_snow",
+        "top": "potatomod:block/peelgrass_block_top"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "moisture=0": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=1": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=2": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=3": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=4": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=5": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=6": {
+            "model": "potatomod:block/poison_farmland"
+        },
+        "moisture=7": {
+            "model": "potatomod:block/poison_farmland_moist"
+        }
+    }
+}

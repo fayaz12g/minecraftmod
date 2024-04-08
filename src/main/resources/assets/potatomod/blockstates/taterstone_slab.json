@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "potatomod:block/taterstone_slab"
+        },
+        "type=double": {
+            "model": "potatomod:block/taterstone"
+        },
+        "type=top": {
+            "model": "potatomod:block/taterstone_slab_top"
+        }
+    }
+}
