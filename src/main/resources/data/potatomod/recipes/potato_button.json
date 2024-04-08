@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "redstone",
-  "group": "wooden_button",
-  "ingredients": [
-    {
-      "item": "minecraft:potato_planks"
+    "type": "minecraft:crafting_shapeless",
+    "category": "redstone",
+    "group": "wooden_button",
+    "ingredients": [
+        {
+            "item": "potatomod:potato_planks"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:potato_button"
     }
-  ],
-  "result": {
-    "count": 1,
-    "id": "minecraft:potato_button"
-  }
 }

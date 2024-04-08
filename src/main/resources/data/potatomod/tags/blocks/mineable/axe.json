@@ -1,7 +1,7 @@
 {
   "values": [
-    "minecraft:potatoes",
-    "#minecraft:all_hanging_signs",
-    "minecraft:big_brain"
+    "potatomod:potatoes",
+    "#potatomod:all_hanging_signs",
+    "potatomod:big_brain"
   ]
 }

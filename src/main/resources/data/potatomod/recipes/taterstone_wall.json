@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "#": {
-      "item": "minecraft:taterstone"
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "potatomod:taterstone"
+        }
+    },
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 6,
+        "id": "potatomod:taterstone_wall"
     }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "id": "minecraft:taterstone_wall"
-  }
 }

@@ -1,13 +1,13 @@
 {
   "values": [
-    "minecraft:amber_block",
-    "minecraft:poisonous_potato_cutter",
-    "minecraft:floatater",
-    "minecraft:poisonous_potato_block",
-    "minecraft:compressed_poisonous_potato_block",
-    "minecraft:double_compressed_poisonous_potato_block",
-    "minecraft:triple_compressed_poisonous_potato_block",
-    "minecraft:quadruple_compressed_poisonous_potato_block",
-    "#minecraft:poisonous_potato_ores"
+    "potatomod:amber_block",
+    "potatomod:poisonous_potato_cutter",
+    "potatomod:floatater",
+    "potatomod:poisonous_potato_block",
+    "potatomod:compressed_poisonous_potato_block",
+    "potatomod:double_compressed_poisonous_potato_block",
+    "potatomod:triple_compressed_poisonous_potato_block",
+    "potatomod:quadruple_compressed_poisonous_potato_block",
+    "#potatomod:poisonous_potato_ores"
   ]
 }

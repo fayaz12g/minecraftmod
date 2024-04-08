@@ -1,40 +1,40 @@
 {
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "type": "minecraft:block",
+    "pools": [
         {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
-      "entries": [
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "potatomod:big_brain"
+                }
+            ],
+            "rolls": 1.0
+        },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:big_brain"
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "components": [
+                                "potatomod:xp"
+                            ],
+                            "function": "minecraft:copy_components",
+                            "source": "block_entity"
+                        }
+                    ],
+                    "name": "potatomod:potato_of_knowledge"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "rolls": 1.0
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "components": [
-                "minecraft:xp"
-              ],
-              "function": "minecraft:copy_components",
-              "source": "block_entity"
-            }
-          ],
-          "name": "minecraft:potato_of_knowledge"
-        }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "minecraft:blocks/big_brain"
+    ],
+    "random_sequence": "potatomod:blocks/big_brain"
 }

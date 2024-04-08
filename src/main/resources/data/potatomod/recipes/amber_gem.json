@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": [
-    {
-      "item": "minecraft:amber_block"
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "potatomod:amber_block"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "id": "potatomod:amber_gem"
     }
-  ],
-  "result": {
-    "count": 9,
-    "id": "minecraft:amber_gem"
-  }
 }

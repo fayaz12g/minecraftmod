@@ -1,6 +1,6 @@
 {
   "values": [
-    "#minecraft:mineable/potone",
-    "minecraft:floatato"
+    "#potatomod:mineable/potone",
+    "potatomod:floatato"
   ]
 }

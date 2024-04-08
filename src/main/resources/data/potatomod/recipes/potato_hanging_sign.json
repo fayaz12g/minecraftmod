@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "group": "hanging_sign",
-  "key": {
-    "#": {
-      "item": "minecraft:potato_stem"
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "hanging_sign",
+    "key": {
+        "#": {
+            "item": "potatomod:potato_stem"
+        },
+        "X": {
+            "item": "minecraft:chain"
+        }
     },
-    "X": {
-      "item": "minecraft:chain"
+    "pattern": [
+        "X X",
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 6,
+        "id": "potatomod:potato_hanging_sign"
     }
-  },
-  "pattern": [
-    "X X",
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "id": "minecraft:potato_hanging_sign"
-  }
 }

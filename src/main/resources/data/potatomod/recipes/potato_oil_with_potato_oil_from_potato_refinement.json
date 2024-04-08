@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:potato_refinement",
-  "bottle_ingredient": {
-    "item": "minecraft:glass_bottle"
-  },
-  "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:potato"
-  },
-  "refinement_time": 100,
-  "result": {
-    "count": 1,
-    "id": "minecraft:potato_oil"
-  }
+    "type": "potatomod:potato_refinement",
+    "bottle_ingredient": {
+        "item": "potatomod:glass_bottle"
+    },
+    "experience": 0.1,
+    "ingredient": {
+        "item": "potatomod:potato"
+    },
+    "refinement_time": 100,
+    "result": {
+        "count": 1,
+        "id": "potatomod:potato_oil"
+    }
 }

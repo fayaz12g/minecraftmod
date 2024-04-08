@@ -1,34 +1,34 @@
 {
-  "parent": "minecraft:potato/lubricate_whee",
-  "criteria": {
-    "throw_mega_lubricated_item": {
-      "conditions": {
-        "min_lubrication": 10
-      },
-      "trigger": "minecraft:throw_lubricated"
-    }
-  },
-  "display": {
-    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
-    "description": {
-      "translate": "advancements.potato.mega_lubricate_whee.description"
+    "parent": "potatomod:potato/lubricate_whee",
+    "criteria": {
+        "throw_mega_lubricated_item": {
+            "conditions": {
+                "min_lubrication": 10
+            },
+            "trigger": "potatomod:throw_lubricated"
+        }
     },
-    "hidden": true,
-    "icon": {
-      "components": {
-        "minecraft:explicit_foil": true
-      },
-      "count": 1,
-      "id": "minecraft:ice"
+    "display": {
+        "background": "potatomod:textures/gui/advancements/backgrounds/potato.png",
+        "description": {
+            "translate": "advancements.potato.mega_lubricate_whee.description"
+        },
+        "hidden": true,
+        "icon": {
+            "components": {
+                "minecraft:explicit_foil": true
+            },
+            "count": 1,
+            "id": "potatomod:ice"
+        },
+        "title": {
+            "translate": "advancements.potato.mega_lubricate_whee.title"
+        }
     },
-    "title": {
-      "translate": "advancements.potato.mega_lubricate_whee.title"
-    }
-  },
-  "requirements": [
-    [
-      "throw_mega_lubricated_item"
-    ]
-  ],
-  "sends_telemetry_event": true
+    "requirements": [
+        [
+            "throw_mega_lubricated_item"
+        ]
+    ],
+    "sends_telemetry_event": true
 }

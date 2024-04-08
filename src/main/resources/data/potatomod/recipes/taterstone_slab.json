@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "key": {
-    "#": {
-      "item": "minecraft:taterstone"
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "#": {
+            "item": "potatomod:taterstone"
+        }
+    },
+    "pattern": [
+        "###"
+    ],
+    "result": {
+        "count": 6,
+        "id": "potatomod:taterstone_slab"
     }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "id": "minecraft:taterstone_slab"
-  }
 }

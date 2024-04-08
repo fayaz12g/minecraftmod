@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "P": {
-      "item": "minecraft:poisonous_potato"
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "P": {
+            "item": "potatomod:poisonous_potato"
+        },
+        "R": {
+            "item": "minecraft:blaze_rod"
+        }
     },
-    "R": {
-      "item": "minecraft:blaze_rod"
+    "pattern": [
+        "P",
+        "R"
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:potato_hammer"
     }
-  },
-  "pattern": [
-    "P",
-    "R"
-  ],
-  "result": {
-    "count": 1,
-    "id": "minecraft:potato_hammer"
-  }
 }

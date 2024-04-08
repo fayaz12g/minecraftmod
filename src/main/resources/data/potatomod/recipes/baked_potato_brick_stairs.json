@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "key": {
-    "#": {
-      "item": "minecraft:baked_potato_bricks"
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "#": {
+            "item": "potatomod:baked_potato_bricks"
+        }
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 4,
+        "id": "potatomod:baked_potato_brick_stairs"
     }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 4,
-    "id": "minecraft:baked_potato_brick_stairs"
-  }
 }

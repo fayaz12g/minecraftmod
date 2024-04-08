@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "type": "minecraft:block",
+    "pools": [
         {
-          "condition": "minecraft:survives_explosion"
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "potatomod:poisonous_potato_block"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:poisonous_potato_block"
-        }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "minecraft:blocks/poisonous_potato_block"
+    ],
+    "random_sequence": "potatomod:blocks/poisonous_potato_block"
 }

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "key": {
-    "#": {
-      "item": "minecraft:amber_gem"
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "#": {
+            "item": "potatomod:amber_gem"
+        }
+    },
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "potatomod:amber_block"
     }
-  },
-  "pattern": [
-    "###",
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 1,
-    "id": "minecraft:amber_block"
-  }
 }

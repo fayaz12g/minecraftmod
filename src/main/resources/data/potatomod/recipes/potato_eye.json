@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": [
-    {
-      "item": "minecraft:poisonous_potato"
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "potatomod:poisonous_potato"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "id": "potatomod:potato_eye"
     }
-  ],
-  "result": {
-    "count": 2,
-    "id": "minecraft:potato_eye"
-  }
 }

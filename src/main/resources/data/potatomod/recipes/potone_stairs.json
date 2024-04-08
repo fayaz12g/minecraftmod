@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "key": {
-    "#": {
-      "item": "minecraft:potone"
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "#": {
+            "item": "potatomod:potone"
+        }
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 4,
+        "id": "potatomod:potone_stairs"
     }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 4,
-    "id": "minecraft:potone_stairs"
-  }
 }
